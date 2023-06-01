@@ -1,0 +1,10 @@
+.course__image{
+    height: 430px;
+    max-width: 430px;
+}
+
+.course__image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
